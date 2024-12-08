@@ -45,4 +45,4 @@ Run the compiled program:
 
 ## License
 
-This program is distributed under the GPL-2 License.
+This program is distributed under the GPL-3 License.
